@@ -1,0 +1,303 @@
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\SCADAdengiaothong.exe.config
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\SCADAdengiaothong.exe
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\SCADAdengiaothong.pdb
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\NetToolKit.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\S7.Net.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\SKCLNET.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\SymbolFactoryDotNet.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\SymbolFactoryNetEngine.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\S7.Net.xml
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\obj\Debug\SCADAdengiaothong.csprojAssemblyReference.cache
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\obj\Debug\SCADAdengiaothong.Form1.resources
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\obj\Debug\SCADAdengiaothong.Properties.Resources.resources
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\obj\Debug\SCADAdengiaothong.csproj.GenerateResource.cache
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\obj\Debug\SCADAdengiaothong.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\obj\Debug\SCADAdengiaothong.csproj.CopyComplete
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\obj\Debug\SCADAdengiaothong.exe
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\obj\Debug\SCADAdengiaothong.pdb
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\netstandard.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.AppContext.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Collections.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Collections.Specialized.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.ComponentModel.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Console.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Data.Common.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Globalization.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.IO.Compression.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.IO.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.IO.FileSystem.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.IO.Pipes.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Linq.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Linq.Expressions.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Linq.Parallel.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Linq.Queryable.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Net.Http.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Net.NameResolution.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Net.Ping.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Net.Primitives.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Net.Requests.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Net.Security.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Net.Sockets.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Net.WebSockets.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.ObjectModel.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Reflection.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Resources.Reader.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Resources.Writer.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Runtime.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Runtime.Handles.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Security.Claims.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Security.Principal.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Security.SecureString.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Text.Encoding.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Threading.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Threading.Tasks.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Threading.Thread.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Threading.Timer.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.ValueTuple.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Xml.XDocument.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Xml.XPath.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\Google.Protobuf.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\MySql.Data.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Buffers.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.IO.Pipelines.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Memory.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Runtime.Loader.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Security.AccessControl.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Security.Permissions.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Text.Json.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\Google.Protobuf.pdb
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\Google.Protobuf.xml
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\MySql.Data.xml
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Buffers.xml
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.IO.Pipelines.xml
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Memory.xml
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Security.AccessControl.xml
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Security.Permissions.xml
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Text.Json.xml
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\DELL\OneDrive - The University of Technology\Tài liệu\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\obj\Debug\SCADAdengiaothong.exe.config
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\SCADAdengiaothong.exe.config
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\SCADAdengiaothong.exe
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\SCADAdengiaothong.pdb
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\netstandard.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.AppContext.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Collections.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Collections.Specialized.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.ComponentModel.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Console.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Data.Common.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Globalization.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.IO.Compression.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.IO.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.IO.FileSystem.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.IO.Pipes.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Linq.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Linq.Expressions.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Linq.Parallel.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Linq.Queryable.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Net.Http.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Net.NameResolution.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Net.Ping.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Net.Primitives.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Net.Requests.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Net.Security.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Net.Sockets.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Net.WebSockets.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.ObjectModel.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Reflection.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Resources.Reader.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Resources.Writer.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Runtime.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Runtime.Handles.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Security.Claims.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Security.Principal.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Security.SecureString.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Text.Encoding.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Threading.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Threading.Tasks.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Threading.Thread.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Threading.Timer.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.ValueTuple.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Xml.XDocument.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Xml.XPath.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\Google.Protobuf.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\MySql.Data.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Buffers.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.IO.Pipelines.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Memory.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Runtime.Loader.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Security.AccessControl.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Security.Permissions.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Text.Json.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\Google.Protobuf.pdb
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\Google.Protobuf.xml
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\MySql.Data.xml
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\S7.Net.xml
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Buffers.xml
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.IO.Pipelines.xml
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Memory.xml
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Security.AccessControl.xml
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Security.Permissions.xml
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Text.Json.xml
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\obj\Debug\SCADAdengiaothong.csproj.AssemblyReference.cache
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\obj\Debug\SCADAdengiaothong.exe.config
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\obj\Debug\SCADAdengiaothong.Form1.resources
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\obj\Debug\SCADAdengiaothong.Properties.Resources.resources
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\obj\Debug\SCADAdengiaothong.csproj.GenerateResource.cache
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\obj\Debug\SCADAdengiaothong.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\obj\Debug\SCADAdengiaothong.csproj.CopyComplete
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\obj\Debug\SCADAdengiaothong.exe
+C:\Users\nguye\OneDrive\Documents\Visual Studio Project\Du an thu viec\SCADAdengiaothong\SCADAdengiaothong\obj\Debug\SCADAdengiaothong.pdb
